@@ -1,0 +1,107 @@
+﻿id,characters,LastName,Teams,Villages,Gender,Age,Ninja Rank,number of jutsu,Date of birth,Nature Type,Tailed Beast,Clan,Anime,Status,Rogue Ninja
+1,Naruto Uzumaki,Uzumaki,7,Konoha,Male,33,Kage,70,10-Oct,Wind Release,Kyubi,Uzumaki Clan,"Naruto,Naruto Shippuden,Boruto",Alive,No
+2,Sasuke Uchiha,Uchiha,7,Konoha,Male,33,Genin,71,23-Jul,Fire Release ,No,Uchiha Clan,"Naruto,Naruto Shippuden,Boruto",Alive,No
+3,Sakura Haruno,Haruno,7,Konoha,Female,32,Jōnin,16,28-Mar,Earth Release,No,Haruno Clan,"Naruto,Naruto Shippuden,Boruto",Alive,No
+4,Kakashi Hatake,Hatake,7,Konoha,Male,48,Kage,43,15-Sep,Lightning Release,No,Hatake Clan,"Naruto,Naruto Shippuden,Boruto",Alive,No
+5,Hinata Hyuga,Hyuga,8,Konoha,Female,32,Chūnin,14,27-Dec,Fire Release,No,Hyuga Clan,"Naruto,Naruto Shippuden,Boruto",Alive,No
+6,Shino Aburame,Aburame,8,Konoha,Male,33,Chūnin,14,23-Jan,Earth Release,No,Aburame Clan,"Naruto,Naruto Shippuden,Boruto",Alive,No
+7,Kiba Inuzuka,Inuzuka,8,Konoha,Male,33,Chūnin,13,7-Jul,Earth Release,No,Inuzuka Clan,"Naruto,Naruto Shippuden,Boruto",Alive,No
+8,Kurenai Yuhi,Yuhi,8,Konoha,Female,47,Jōnin,7,11-Jun,Yin Release,No,Sarutobi Clan,"Naruto,Naruto Shippuden,Boruto",Alive,No
+9,Shikamaru Nara,Nara,10,Konoha,Male,33,Jōnin,12,22-Sep,Yin Release,No,Nara Clan,"Naruto,Naruto Shippuden,Boruto",Alive,No
+10,Choji Akimichi,Akimichi,10,Konoha,Male,33,Chūnin,15,1-May,Earth Release,No,Akimichi Clan,"Naruto,Naruto Shippuden,Boruto",Alive,No
+11,Ino Yamanaka,Yamanaka,10,Konoha,Female,32,Chūnin,14,23-Sep,Yin Release,No,Yamanaka Clan,"Naruto,Naruto Shippuden,Boruto",Alive,No
+12,Asuma Sarutobi,Sarutobi,10,Konoha,Male,31,Jōnin,8,18-Oct,Wind Release,No,Sarutobi Clan,"Naruto,Naruto Shippuden",Deceased,No
+13,Rock Lee,Lee,9,Konoha,Male,34,Jōnin,19,27-Nov,NA,No,Lee Clan,"Naruto,Naruto Shippuden,Boruto",Alive,No
+14,Neji Hyuga,Hyuga,9,Konoha,Male,17,Jōnin,10,3-Jul,Fire Release,No,Hyuga Clan,"Naruto,Naruto Shippuden",Deceased,No
+15,Tenten,Tenten,9,Konoha,Female,32,Chūnin,12,9-Mar,NA,No,NA,"Naruto,Naruto Shippuden,Boruto",Alive,No
+16,Might Guy,Guy,9,Konoha,Male,46,Jōnin,28,1-Jan,Fire Release,No,NA,"Naruto,Naruto Shippuden,Boruto",Alive,No
+17,Hashirama Senju,Senju,NA,Konoha,Male,30,Kage,22,23-Oct,Wood Release,No,Senju Clan,"Naruto,Naruto Shippuden",Deceased,No
+18,Tobirama Senju,Senju,NA,Konoha,Male,26,Kage,17,19-Feb,Water Release,No,Senju Clan,"Naruto,Naruto Shippuden",Deceased,No
+19,Hiruzen Sarutobi,Sarutobi,NA,Konoha,Male,68,Kage,18,8-Feb,Fire Release ,No,Sarutobi Clan,"Naruto,Naruto Shippuden",Deceased,No
+20,Minato Namikaze,NA,Team JIraiya,Konoha,Male,24,Kage,20,25-Jan,Wind Release,Kyubi (Yin half),NA,"Naruto,Naruto Shippuden",Deceased,No
+21,Tsunade,NA,Team Jiraiya,Konoha,Female,71,Kage,21,2-Aug,Yin Release,No,Senju Clan,"Naruto,Naruto Shippuden,Boruto",Alive,No
+22,Orochimaru ,NA,Team Orochimaru,Konoha,Male,71,Anbu,47,27-Oct,Wind Release,No,NA,"Naruto,Naruto Shippuden,Boruto",Alive,Yes
+23,Jiraya ,NA,Team Jiraiya,Konoha,Male,54,Jōnin,35,11-Nov,Fire Release,No,NA,"Naruto,Naruto Shippuden",Deceased,No
+24,Kabuto Yakushi ,Yakushi,NA,Konoha,Male,39,Genin,35,1-Feb,Earth Release,No,NA,"Naruto,Naruto Shippuden,Boruto",Alive,Yes
+25,Nagato Uzumaki,Uzumaki,Akatsuki,Ame,Male,35,NA,37,19-Sep,Yang Release,No,Uzumaki Clan,"Naruto,Naruto Shippuden",Deceased,Yes
+26,Yahiko,NA,Akatsuki,Ame,Male,15,NA,2,20-Feb,Fire Release ,No,NA,"Naruto,Naruto Shippuden",Deceased,Yes
+27,Konan,NA,Akatsuki,Ame,Female,35,Anbu,7,20-Feb,Wind Release,No,NA,"Naruto,Naruto Shippuden",Deceased,Yes
+28,Itachi Uchiha,Uchiha,Akatsuki,Konoha,Male,21,Anbu,26,9-Jun,Fire Release ,No,Uchiha Clan,"Naruto,Naruto Shippuden",Deceased,Yes
+29,Kisame Hoshigaki,Hoshigaki,Akatsuki,Kiri,Male,32,NA,15,18-Mar,Water Release ,No,Hoshigaki Clan,"Naruto,Naruto Shippuden",Deceased,Yes
+30,Zetsu,NA,Akatsuki,NA,Male,1000,NA,21,NA,Wood Release,No,NA,"Naruto,Naruto Shippuden",Deceased,Yes
+31,Deidara,NA,Akatsuki,Iwa,Male,19,NA,14,5-May,Explosion Release,No,NA,"Naruto,Naruto Shippuden",Deceased,Yes
+32,Sasori,Sasori,Akatsuki,Suna,Male,35,NA,13,8-Nov,NA,No,NA,"Naruto,Naruto Shippuden",Deceased,Yes
+33,Obito Uchiha,Uchiha,Akatsuki,Konoha,Male,31,NA,44,10-Feb,Fire Release ,Ten-Tails,Uchiha Clan,"Naruto,Naruto Shippuden",Deceased,Yes
+34,Hidan,NA,Akatsuki,Yuga,Male,22,NA,1,2-Apr,NA,No,NA,"Naruto,Naruto Shippuden",Incapacitated,Yes
+35,Kakuzu,NA,Akatsuki,Taki,Male,91,NA,9,15-Aug,Earth Release,No,NA,"Naruto,Naruto Shippuden",Deceased,Yes
+36,Ichibi,NA,NA,Suna,NA,1000,NA,7,NA,Earth Release,Yes,NA,"Naruto,Naruto Shippuden,Boruto",Deceased,No
+37,Nibi,NA,NA,Kumo,NA,1000,NA,7,NA,Fire Release ,Yes,NA,"Naruto,Naruto Shippuden,Boruto",Deceased,No
+38,Sanbi,NA,NA,Kiri,NA,1000,NA,11,NA,Water Release ,Yes,NA,"Naruto,Naruto Shippuden,Boruto",Deceased,No
+39,Yonbi,NA,NA,Iwa,NA,1000,NA,6,NA,Lava Release,Yes,NA,"Naruto,Naruto Shippuden,Boruto",Deceased,No
+40,Gobi,NA,NA,Iwa,NA,1000,NA,7,NA,Boil Release,Yes,NA,"Naruto,Naruto Shippuden,Boruto",Deceased,No
+41,Rokubi,NA,NA,Kiri,NA,1000,NA,8,NA,Water Release ,Yes,NA,"Naruto,Naruto Shippuden,Boruto",Deceased,No
+42,Nanabi,NA,NA,Taki,NA,1000,NA,7,NA,NA,Yes,NA,"Naruto,Naruto Shippuden,Boruto",Deceased,No
+43,Hachibi,NA,NA,Kumu,NA,1000,NA,8,NA,NA,Yes,NA,"Naruto,Naruto Shippuden,Boruto",Deceased,No
+44,Kyûbi,NA,NA,Konoha,NA,1000,NA,13,NA,Fire Release ,Yes,NA,"Naruto,Naruto Shippuden,Boruto",Deceased,No
+45,Jûbi,NA,NA,NA,NA,1000,NA,8,NA,Yin-Yang Release,Yes,NA,"Naruto,Naruto Shippuden,Boruto",Deceased,No
+46,Madara Uchiha,Uchiha,Akatsuki,Konoha,Male,90,NA,51,24-Dec,Fire Release,Ten-Tails,Uchiha Clan,"Naruto,Naruto Shippuden",Deceased,Yes
+47,Konohamaru Sarutobi,Sarutobi,Team Ebisu,Konoha,Male,28,Jōnin,28,30-Dec,Fire Release ,No,Sarutobi Clan,"Naruto,Naruto Shippuden,Boruto",Alive,No
+48,Moegi,NA,Team Ebisu,Konoha,Female,28,Jōnin,5,8-Jun,Wood Release,No,NA,"Naruto,Naruto Shippuden,Boruto",Alive,No
+49,Udon,NA,Team Ebisu,Konoha,Male,28,Jonin,3,3-Apr,Water Release ,No,NA,"Naruto,Naruto Shippuden,Boruto",Alive,No
+50,Ebisu,NA,Équipe Ebisu,Konoha,Male,40,Tokubetsu Jōnin,10,9-Sep, Fire Release,No,NA,"Naruto,Naruto Shippuden",Alive,No
+51,Reto,NA,NA,Suna,Male,58,Kage,20,27-Jun, Earth Release ,No,NA,"Naruto,Naruto Shippuden",Deceased,No
+52,Shamon,NA,NA,Suna,Male,50,Kage,20,12-Mar,Earth Release,No,NA,Naruto Shippuden,Deceased,No
+53,Third Kazekage,Kazekage,NA,Suna,Male,49,Kage,20,NA,Earth Release,No,NA,naruto Shippuden,Deceased,No
+54,Rasa,Kazekage,NA,Suna,Male,40,Kage,20,29-Mar,Earth Release,No,Kazekage Clan,"Naruto,naruto Shippuden",Deceased,No
+55,Gaara,Kazekage,Fourth Division,Suna,Male,30,Kage,25,19-Jan, Earth Release,Shukaku ,Kazekage Clan,"Naruto,Naruto Shippuden,Boruto",Alive,No
+56,A (first raikage),NA,NA,Kumo,Male,25,Kage,20,1-Dec,Lightning Release,No,NA,Naruto Shippuden,Deceased,No
+57,A (second raikage),NA,NA,Kumo,Male,30,Kage,20,1-Mar,Lightning Release,No,NA,Naruto Shippuden,Deceased,No
+58,A (third raikage),NA,Eight-Tails Subduing Team,Kumo,Male,35,Kage,25,1-Aug,Lightning Release,No,NA,Naruto Shippuden,Deceased,No
+59,A (fourth raikage),NA,Eight-Tails Subduing Team,Kumo,Male,47,Kage,30,7-Jan,Lightning Release,No,NA,Naruto Shippuden,Alive,No
+60,Darui,NA,First Division,Kumo,Male,26,Kage,20,6-Jan,Storm Release,No,NA,Naruto Shippuden,Alive,No
+61,Byakuren,Byakuren,NA,Kiri,Male,60,Kage,20,20-Jan,Water Release,No,NA,Naruto Shippuden,Deceased,No
+62,Gengetsu Hôzuki,Hôzuki,NA,Kiri,Male,20,Kage,38,26-Oct,Water Release,No,Hōzuki Clan,Naruto Shippuden,Deceased,No
+63,Troisième Mizukage,NA,NA,Kiri,Male,32,Kage,20,NA,Water Release,No,NA,Naruto Shippuden,Deceased,No
+64,Yagura Karatachi,Karatachi,NA,Kiri,Male,23,Kage,25,3-Apr,Water Release,Isobu,Karatachi Clan ,Naruto Shippuden,Deceased,No
+65,Meï Terumî,Terumî,Daimyō Protection Squad,Kiri,Female,31,Kage,20,21-May,Lava Release,No,NA,"Naruto Shippuden , Boruto",Alive,No
+66,Chôjûrô,NA,Seven Ninja Swordsmen of the Mist,Kiri,Male,19,Kage,24,1-Nov,Water Release ,No,NA,"Naruto Shippuden , Boruto",Alive,No
+67,Ishikawa,Kamizuru,NA,Iwa,Male,70,Kage,27,6-May, Earth Release,No,Kamizuru Clan ,Naruto Shippuden,Deceased,No
+68,Mû,Mû,NA,Iwa,Male,35,Kage,30,6-Jun,Dust Release,No,NA,Naruto Shippuden,Deceased,No
+70,Ônoki,Kamizuru,NA,Iwa,Male,79,Kage,15,8-Oct,Dust Release,No,Kamizuru Clan ,"Naruto Shippuden , Boruto",Deceased,No
+71,Kurotsuchi,NA,Second Division,Iwa,Female,18,Kage,15,6-Sep,Earth Release,No,Kamizuru Clan ,"Naruto Shippuden , Boruto",Alive,No
+72,Kaguya Otsutsuki,Otsutsuki,NA,Land of Ancestors,Female,1000,God,infinite,15-Aug, Yin–Yang Release,No,Ōtsutsuki Clan,Naruto Shippuden,Incapacitated,Yes
+73,Isshiki Ōtsutsuki,Ōtsutsuki,NA,Land of Ancestors,Male,1000,God,infinite,NA,Yin Release,No,Ōtsutsuki Clan,Boruto,Deceased,Yes
+74,Iruka Umino,Umino,Allied Shinobi Forces,Konoha,Male,40,Chūnin,10,26-May,Fire Release,No,NA,"Naruto,Naruto Shippuden,Boruto",Alive,No
+75,Temari Nara,Nara,Fourth Division,suna,Female,24,Jōnin,10,23-Aug,Wind Release,No,Nara Clan,"Naruto,Naruto Shippuden,Boruto",Alive,No
+76,Kankuro,NA,Fourth Division,suna,Male,20,Jōnin,10,15-May,Wind Release,No,Kazekage Clan,"Naruto,Naruto Shippuden,Boruto",Alive,No
+77,Boruto Uzumaki,Uzumaki,Team 7,Konoha,Male,12,Genin,8,27-Mar,Lightning Release ,No,Uzumaki Clan,Boruto,Alive,No
+78,Shisui Uchiha,Uchiha,Team Shisui,Konoha,Male,19,Anbu,20,19-Oct,Fire Release,No,Uchiha Clan,"Naruto,Naruto Shippuden",Deceased,No
+79,Zabuza Momochi,Momochi,Seven Ninja Swordsmen of the Mist,Kiri,Male,26,Anbu,20,15-Aug,Water Release,No,NA,"Naruto,Naruto Shippuden",Deceased,Yes
+80,Haku,NA,Leaf Assassins,Kiri,Male,15,Anbu,10,9-Jan,Ice Release,No,Yuki Clan,"Naruto,Naruto Shippuden",Deceased,Yes
+81,Kimimaro,NA,Sound Five,Oto,Male,15,Jōnin,15,15-Jun,NA,No,Kaguya Clan,"Naruto,Naruto Shippuden",Deceased,Yes
+82,Kidomaru,NA,Sound Four,Oto,Male,14,Jōnin,10,16-Dec,NA,No,NA,"Naruto,Naruto Shippuden",Deceased,No
+83,Tayuya,NA,Sound Four,Oto,Female,14,Jōnin,8,15-Feb,Yin Release,No,NA,"Naruto,Naruto Shippuden",Deceased,No
+84,Danzo Shimura,Shimura,Konoha Council,Konoha,Male,73,Kage,30,6-Jan, Wind Release,No,Shimura Clan,Naruto Shippuden,Deceased,No
+85,Sai,NA,Team Kakashi,Konoha,Male,30,Anbu,6,25-Nov,Yang Release,No,Yamanaka Clan,"Naruto,Naruto Shippuden,Boruto",Alive,No
+86,Yamato,NA,Team Kakashi,Konoha,Male,27,Anbu,30,10-Aug,Wood Release,No,NA,Naruto Shippuden,Alive,No
+87,Izuna Uchiha,Uchiha,NA,Konoha,Male,24,jōnin,25,10-Feb,Fire Release ,No,Uchiha Clan,Naruto Shippuden,Deceased,No
+88,Sakon and Ukon,NA,Sound Four,Konoha,Male,14,jōnin,5,20-Jun,NA,No,NA,Naruto,Deceased,Yes
+89,Sarada Uchiha,Uchiha,Team 7,Konoha,Female,12,Genin,8,31-Mar,Lightning Release,No,Uchiha Clan,Boruto,Alive,No
+90,Mitsuki ,NA,Team 7,Konoha,Male,12,Genin,10,25-Jul,Wind Release,No,NA,Boruto,Alive,No
+91,Baki,NA,Suna Council,Suna,Male,34,Jōnin,18,7-Apr,Wind Release,No,NA,"Naruto,Naruto Shippuden",Alive,No
+92,Amado,NA,Scientific Ninja Weapons Team,Konoha,Male,45,NA,NA,NA,Yin Release,No,NA,Boruto,Alive,Yes
+93,Himawari Uzumaki,Uzumaki,NA,Konoha,Female,5,Academy students,2,NA,Lightning Release,No,Uzumaki Clan,Boruto,Alive,No
+94,Momoshiki Ôtsutsuki,Ôtsutsuki,NA,Land of Ancestors,Male,1000,God,infinite,NA,Wind Release,No,Ōtsutsuki Clan,Boruto,Alive,Yes
+95,Kawaki,NA,Team 7,Konoha,Male,13,Jōnin,10,NA,Fire Release,No,NA,Boruto,Alive,No
+96,Jigen,NA,Kara,Land of Ancestors,Male,1000,God,Infinite,NA,Inton Release,No,Ōtsutsuki Clan,Boruto,Deceased,Yes
+97,Hagoromo Ôtsutsuki,Ôtsutsuki,NA,Mount Myōboku ,Male,1000,God,infinite,6-Aug,Earth Release,Jūbi,Ōtsutsuki Clan,Naruto Shippuden,Deceased,No
+98,Iwabee Yuino,Yuino,Team 5,Konoha,Male,15,Genin,5,NA,Earth Release,No,NA,Boruto,Alive,No
+99,Boro,Boro,Kara,NA,Male,28,NA,10,NA,Earth Release,No,NA,Boruto,Deceased,Yes
+100,Delta,NA,Kara,NA,Female,27,NA,,NA, Yin Release,No,NA,Boruto,Incapacitated,Yes
+101,Guren,NA,Team Guren,Oto,Female,22,Jōnin,10,NA,Crystal Release,No,NA,Naruto Shippuden,Incapacitated,No
+102,Killer Bee,NA,A–B Combo,Iwa,Male,38,Jonin,25,15-May,Lightning Release,Gyūki,NA,"Naruto,Naruto Shippuden,Boruto",Alive,No
+103,Menma Uzumaki,Uzumaki,NA,Konoha,Male,16,Chūnin,10,10-Oct,Wind Release,Black Nine-Tails,Uzumaki Clan,Road to Ninja: Naruto the Movie,Alive,Yes
+104,Utakata,NA,NA,Kiri,Male,26,NA,10,16-Jun,Water Release,Saiken ,Tsuchigumo Clan ,Naruto Shippūden,Deceased,Yes
+105,Kushina Uzumaki,Uzumaki,NA,Konoha,Female,24,Chūnin,15,10-Jul,Wind Release,Kurama,Uzumaki Clan,Naruto Shippūden,Deceased,No
+106,Sakumo Hatake,Hatake,NA,Konoha,Male,30,Jōnin,30,3-Sep,Lightning Release,No,Hatake Clan,Naruto Shippuden,Deceased,No
+107,Mifune,NA,Fifth Division,The Land of Iron,Male,65,Samurai,NA,1-Apr,NA,No,NA,Naruto Shippuden,Alive,Yes
